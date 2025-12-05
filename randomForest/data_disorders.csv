@@ -1,0 +1,53 @@
+Age,Gender,Sleep_Hours,Appetite_Change,Mood_Swings,Social_Withdrawal,Anxiety_Level,Fatigue_Level,Concentration_Issues,Panic_Attacks,Intrusive_Thoughts,Hallucinations,Suicidal_Thoughts,Duration_Months,Family_History,Previous_Treatment,Mental_Illness
+28,Female,4,Decreased,Yes,Yes,8,9,Yes,No,Yes,No,No,6,Yes,No,Depression
+35,Male,7,Normal,No,No,3,2,No,No,No,No,No,0,No,No,Healthy
+42,Female,3,Decreased,Yes,Yes,9,10,Yes,Yes,Yes,No,Yes,12,Yes,Yes,Severe Depression
+19,Male,5,Increased,Yes,No,7,6,Yes,No,No,No,No,4,No,No,Anxiety Disorder
+31,Female,6,Decreased,Yes,Yes,6,7,Yes,No,Yes,No,No,8,Yes,No,Depression
+26,Male,8,Normal,No,No,2,1,No,No,No,No,No,0,No,No,Healthy
+45,Female,4,Decreased,Yes,Yes,9,9,Yes,Yes,No,No,Yes,18,Yes,Yes,Severe Depression
+23,Male,5,Normal,Yes,No,8,5,Yes,Yes,No,No,No,3,No,No,Anxiety Disorder
+38,Female,2,Severely Decreased,Yes,Yes,10,10,Yes,No,Yes,Yes,Yes,24,Yes,Yes,Bipolar Disorder
+29,Male,7,Normal,No,No,2,2,No,No,No,No,No,0,No,No,Healthy
+33,Female,4,Decreased,Yes,Yes,7,8,Yes,No,Yes,No,No,10,Yes,Yes,Depression
+41,Male,3,Decreased,Yes,Yes,9,9,Yes,Yes,Yes,No,No,15,Yes,No,Severe Depression
+21,Female,6,Normal,Yes,No,7,4,Yes,Yes,No,No,No,2,No,No,Anxiety Disorder
+36,Male,8,Normal,No,No,1,1,No,No,No,No,No,0,No,No,Healthy
+47,Female,3,Decreased,Yes,Yes,10,10,Yes,No,Yes,No,Yes,20,Yes,Yes,Severe Depression
+25,Male,5,Increased,Yes,No,8,6,Yes,Yes,No,No,No,5,Yes,No,Anxiety Disorder
+52,Female,2,Severely Decreased,Yes,Yes,10,10,Yes,No,Yes,Yes,Yes,36,Yes,Yes,Bipolar Disorder
+30,Male,7,Normal,No,No,3,2,No,No,No,No,No,0,No,No,Healthy
+27,Female,4,Decreased,Yes,Yes,8,8,Yes,No,Yes,No,No,7,Yes,No,Depression
+39,Male,6,Decreased,Yes,Yes,7,7,Yes,No,No,No,No,9,No,Yes,Depression
+22,Female,5,Normal,Yes,No,9,5,Yes,Yes,Yes,No,No,3,No,No,Panic Disorder
+34,Male,8,Normal,No,No,2,1,No,No,No,No,No,0,No,No,Healthy
+43,Female,3,Decreased,Yes,Yes,9,10,Yes,Yes,Yes,No,Yes,14,Yes,Yes,Severe Depression
+20,Male,6,Increased,Yes,No,8,4,Yes,Yes,No,No,No,2,No,No,Anxiety Disorder
+48,Female,2,Severely Decreased,Yes,Yes,10,10,Yes,No,Yes,Yes,Yes,30,Yes,Yes,Bipolar Disorder
+32,Male,7,Normal,No,No,2,2,No,No,No,No,No,0,No,No,Healthy
+26,Female,4,Decreased,Yes,Yes,7,8,Yes,No,Yes,No,No,6,Yes,No,Depression
+40,Male,5,Decreased,Yes,Yes,8,9,Yes,Yes,No,No,No,11,Yes,Yes,Depression
+24,Female,6,Normal,Yes,No,8,5,Yes,Yes,Yes,No,No,4,No,No,Panic Disorder
+37,Male,8,Normal,No,No,1,1,No,No,No,No,No,0,No,No,Healthy
+44,Female,3,Decreased,Yes,Yes,10,10,Yes,No,Yes,No,Yes,16,Yes,Yes,Severe Depression
+28,Male,5,Increased,Yes,No,7,6,Yes,No,No,No,No,5,Yes,No,Anxiety Disorder
+50,Female,2,Severely Decreased,Yes,Yes,10,10,Yes,Yes,Yes,Yes,Yes,28,Yes,Yes,Bipolar Disorder
+31,Male,7,Normal,No,No,3,2,No,No,No,No,No,0,No,No,Healthy
+29,Female,4,Decreased,Yes,Yes,8,8,Yes,No,Yes,No,No,8,Yes,No,Depression
+46,Male,3,Decreased,Yes,Yes,9,9,Yes,Yes,Yes,No,Yes,19,Yes,Yes,Severe Depression
+23,Female,5,Normal,Yes,No,9,4,Yes,Yes,Yes,No,No,3,No,No,Panic Disorder
+35,Male,8,Normal,No,No,2,1,No,No,No,No,No,0,No,No,Healthy
+49,Female,2,Severely Decreased,Yes,Yes,10,10,Yes,No,Yes,Yes,Yes,32,Yes,Yes,Bipolar Disorder
+27,Male,6,Decreased,Yes,Yes,7,7,Yes,No,No,No,No,7,Yes,Yes,Depression
+33,Female,4,Decreased,Yes,Yes,8,9,Yes,No,Yes,No,No,10,Yes,No,Depression
+21,Male,5,Increased,Yes,No,8,5,Yes,Yes,No,No,No,2,No,No,Anxiety Disorder
+38,Female,7,Normal,No,No,2,2,No,No,No,No,No,0,No,No,Healthy
+45,Male,3,Decreased,Yes,Yes,9,10,Yes,Yes,Yes,No,Yes,17,Yes,Yes,Severe Depression
+25,Female,6,Normal,Yes,No,7,4,Yes,Yes,Yes,No,No,4,No,No,Panic Disorder
+51,Male,2,Severely Decreased,Yes,Yes,10,10,Yes,No,Yes,Yes,Yes,34,Yes,Yes,Bipolar Disorder
+30,Female,7,Normal,No,No,3,2,No,No,No,No,No,0,No,No,Healthy
+28,Male,4,Decreased,Yes,Yes,7,8,Yes,No,Yes,No,No,6,Yes,No,Depression
+42,Female,5,Decreased,Yes,Yes,8,9,Yes,Yes,No,No,No,13,Yes,Yes,Depression
+22,Male,6,Increased,Yes,No,8,5,Yes,Yes,No,No,No,3,No,No,Anxiety Disorder
+36,Female,8,Normal,No,No,1,1,No,No,No,No,No,0,No,No,Healthy
+47,Male,,,,,,,,,,,,,,,
