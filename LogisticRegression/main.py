@@ -10,7 +10,7 @@ print("_" * 32)
 
 
 #Load your dataset
-data = pd.read_csv(r"d:\My_Molly_Code\sklearn\LogisticRegression\data_students.csv")
+data = pd.read_csv("data_students.csv")
 
 # Control+/ to comment selected text # DEBUG BIG TIP :D
 # print("\nColumns pandas sees:", data.columns.tolist())
